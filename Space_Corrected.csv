@@ -1,9 +1,9 @@
 ,Unnamed: 0,Company Name,Location,Datum,Detail,Status Rocket, Rocket,Status Mission
-4324,4324,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sun Nov 15, 2026 17:40 UTC",Vulcan Centaur VC6L | Amazon Leo (LV-01),StatusActive,110.0 ,Failure
-4325,4325,Rocket Lab,"Rocket Lab LC-1A, Mahia Peninsula, New Zealand","Sat Nov 14, 2026 05:30 UTC",Electron/Curie | The Mountain God Rises (QPS-SAR-19),StatusActive,7.5 ,Success
+4324,4324,ULA,"SLC-41, Cape Canaveral SFS, Florida, USA","Sun Nov 15, 2026 17:40 UTC",Vulcan Centaur VC6L | Amazon Leo (LV-01),StatusActive,110.00 ,Failure
+4325,4325,Rocket Lab,"Rocket Lab LC-1A, Mahia Peninsula, New Zealand","Sat Nov 14, 2026 05:30 UTC",Electron/Curie | The Mountain God Rises (QPS-SAR-19),StatusActive,7.50 ,Success
 4326,4326,SpaceX,"OLP-2, Starbase, Boca Chica, Texas, USA","Fri Nov 13, 2026 22:47 UTC",Starship/Super Heavy | Flight 15 (IFT-15),StatusActive,,Success
-4327,4327,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Fri Oct 30, 2026 18:21 UTC",GSLV Mk II | GSLV-F18 (NVS-03),StatusActive,47.0 ,Success
-4328,4328,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Apr 01, 2026 22:35 UTC",SLS Block 1 | Artemis II,StatusActive,"4,100.0 ",Success
+4327,4327,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Fri Oct 30, 2026 18:21 UTC",GSLV Mk II | GSLV-F18 (NVS-03),StatusActive,47.00 ,Success
+4328,4328,NASA,"LC-39B, Kennedy Space Center, Florida, USA","Wed Apr 01, 2026 22:35 UTC",SLS Block 1 | Artemis II,StatusActive,"4,100.00 ",Success
 0,0,SpaceX,"LC-39A, Kennedy Space Center, Florida, USA","Fri Aug 07, 2020 05:12 UTC",Falcon 9 Block 5 | Starlink V1 L9 & BlackSky,StatusActive,50.0 ,Success
 1,1,CASC,"Site 9401 (SLS-2), Jiuquan Satellite Launch Center, China","Thu Aug 06, 2020 04:01 UTC",Long March 2D | Gaofen-9 04 & Q-SAT,StatusActive,29.75 ,Success
 2,2,SpaceX,"Pad A, Boca Chica, Texas, USA","Tue Aug 04, 2020 23:57 UTC",Starship Prototype | 150 Meter Hop,StatusActive,,Success
